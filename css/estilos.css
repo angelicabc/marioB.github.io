@@ -1,0 +1,243 @@
+body {
+	background:url(../imagenes/java.JPEG);
+	background:-repeat:repeat-x;
+	color:white;
+}
+
+
+
+     {
+	font-size:16px;
+}
+
+
+h1 {
+	color:black;
+}
+
+
+div {
+	background:black;
+	color:black;
+	width:50%;
+}
+
+
+     {
+	background:black;
+	color:yellow;
+}
+-
+h1 {
+	color:black;
+}
+h2 {
+	color:blue;
+}
+h3 {
+	color:orange;
+}
+h4 {
+	color:black;
+}
+h1 {
+	font-size:50px;
+}
+h2 {
+	font-size:50px;
+}
+h3 {
+	font-size:40px;
+}
+h4 {
+	font-size:50px;
+}
+
+a {
+	font-size:20px; 
+	color:red;
+}
+
+.orange {
+	color:orange;
+}
+
+div {
+	width:800px;
+	height:248px;
+	background:darkblue;
+	margin:10px 10px;
+	padding:10px;
+	border:10px solid gray ;
+	display:inline-block; 
+}
+
+.caja {
+	position:static;
+	top:05px; 
+	bottom:0;
+	right:0; 
+	left:300px;
+}
+.caja2 {
+	position:relative;
+	top:05px; 
+	bottom:0;
+	right:0; 
+	left:300px;
+
+}
+.caja3 {
+	position:static;
+	top:05px; 
+	bottom:0;
+	right:0; 
+	left:300px;
+}
+
+h1 {
+	font-size:normal;
+	text-align:center;
+	background:yellow;
+}
+
+p {
+	color:white;
+	font-family:Arial, Helvetica, Sans-serif, "Myriad Pro";
+	font-size:15px;
+	font-weight:bold;
+	text-align:left;
+	line-height:14px;
+	text-decoration:none;
+	text-transform:lowercase;
+	letter-spacing:normal;
+	word-spacing:15px;
+	text-shadow:1px 1px 0px #000;
+}
+
+
+h2 {
+	font-size:normal;
+	text-align:center;
+	background:lime;
+}
+
+aside div ,.pdos {
+	color:red;
+	font-family:Arial, Helvetica, Sans-serif, "Myriad Pro";
+	font-size:15px;
+	font-weight:bold;
+	text-align:left;
+	line-height:14px;
+	text-decoration:none;
+	text-transform:lowercase;
+	letter-spacing:normal;
+	word-spacing:15px;
+	text-shadow:1px 1px 0px #000;
+}
+
+
+
+p {
+	color:white;
+	font-family:Arial Nova;
+	font-size:15px;
+	font-weight:bold;
+	text-align:left;
+	line-height:14px;
+	text-decoration:none;
+	text-transform:lowercase;
+	letter-spacing:normal;
+	word-spacing:15px;
+	text-shadow:1px 1px 0px #000;
+}
+
+h3 {
+	font-size:normal;
+	text-align:center;
+	background:purple;
+}
+
+h4 {
+	font-size:normal;
+	text-align:center;
+	background:aqua;
+}
+
+a {
+	font-size:20px;
+	color:yellow;
+	text-decoration:none;
+	padding:10px 10px;
+	margin:10px 10px;
+	display:inline-block;
+	background:blue;
+	padding:10px 10px;
+	box-shadow:0px 5px 0px red;
+}
+
+img {
+	width:400px;
+	height:auto;
+	margin:auto;
+	display:block;
+	border-radius:10px;
+	/*box-shadow:10px 10px 0px #ccc;*/
+	padding:10px;
+	border:1px solid #767474;
+}
+
+.menu {
+	width:50%;
+	background:powderblue;
+}
+.menu li {
+	display:decimal;
+}
+
+.menu li a {
+	padding:10px 20px;
+	display:inline-block;
+	color:#fff;
+}
+
+table {
+	border:1px solid white;
+	border-collapse:collapse;
+
+}
+table td {
+	border:1px solid white;
+	padding:15px;
+}
+
+form {
+	width:35%;
+	background:1px solid white;
+	margin:25px;
+	padding:25px; 
+}
+
+label {
+	font-size:12px;
+	display:block;
+	width:100%;
+}
+
+input, textarea {
+	margin-bottom:20px;
+	width:100%;
+	padding:05px;
+	box-sizing: content-box;
+	border:1px solid #ccc;
+	
+}
+ input[type="Enviar"] {
+ 	margin-bottom:0px;
+ 	background:blue;
+ 	color:white;
+ 	border:none;
+ }
+  
+
+ 
